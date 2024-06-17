@@ -5,4 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base:"/my-food/",
   plugins: [react()],
+  base:"/my-food/"
 })
